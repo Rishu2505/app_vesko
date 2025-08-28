@@ -1,0 +1,568 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
+      "location": "New York, USA",
+      "followers": 1500,
+      "verified": true
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+      "location": "London, UK",
+      "followers": 980,
+      "verified": false
+    },
+    {
+      "id": "3",
+      "name": "Carlos Mendez",
+      "avatar": "https://randomuser.me/api/portraits/men/20.jpg",
+      "location": "Madrid, Spain",
+      "followers": 2100,
+      "verified": true
+    },
+    {
+      "id": "4",
+      "name": "Aiko Tanaka",
+      "avatar": "https://randomuser.me/api/portraits/women/32.jpg",
+      "location": "Tokyo, Japan",
+      "followers": 3200,
+      "verified": true
+    },
+    {
+      "id": "5",
+      "name": "Priya Sharma",
+      "avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+      "location": "Delhi, India",
+      "followers": 1750,
+      "verified": false
+    },
+    {
+      "id": "6",
+      "name": "Oliver Brown",
+      "avatar": "https://randomuser.me/api/portraits/men/55.jpg",
+      "location": "Toronto, Canada",
+      "followers": 890,
+      "verified": false
+    },
+    {
+      "id": "7",
+      "name": "Sofia Rossi",
+      "avatar": "https://randomuser.me/api/portraits/women/60.jpg",
+      "location": "Rome, Italy",
+      "followers": 2100,
+      "verified": true
+    },
+    {
+      "id": "8",
+      "name": "Lucas Martin",
+      "avatar": "https://randomuser.me/api/portraits/men/64.jpg",
+      "location": "Paris, France",
+      "followers": 1500,
+      "verified": false
+    },
+    {
+      "id": "9",
+      "name": "Amelia Chen",
+      "avatar": "https://randomuser.me/api/portraits/women/70.jpg",
+      "location": "Beijing, China",
+      "followers": 4100,
+      "verified": true
+    },
+    {
+      "id": "10",
+      "name": "Ethan Johnson",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "location": "Los Angeles, USA",
+      "followers": 2600,
+      "verified": true
+    },
+    {
+      "id": "11",
+      "name": "Mia Lopez",
+      "avatar": "https://randomuser.me/api/portraits/women/80.jpg",
+      "location": "Mexico City, Mexico",
+      "followers": 1400,
+      "verified": false
+    },
+    {
+      "id": "12",
+      "name": "David Wilson",
+      "avatar": "https://randomuser.me/api/portraits/men/85.jpg",
+      "location": "Chicago, USA",
+      "followers": 3100,
+      "verified": true
+    },
+    {
+      "id": "13",
+      "name": "Isabella Müller",
+      "avatar": "https://randomuser.me/api/portraits/women/90.jpg",
+      "location": "Berlin, Germany",
+      "followers": 1200,
+      "verified": false
+    },
+    {
+      "id": "14",
+      "name": "Noah Kim",
+      "avatar": "https://randomuser.me/api/portraits/men/95.jpg",
+      "location": "Seoul, South Korea",
+      "followers": 5000,
+      "verified": true
+    },
+    {
+      "id": "15",
+      "name": "Emma Dubois",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+      "location": "Lyon, France",
+      "followers": 2200,
+      "verified": true
+    },
+    {
+      "id": "16",
+      "name": "Liam O'Connor",
+      "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+      "location": "Dublin, Ireland",
+      "followers": 1500,
+      "verified": false
+    },
+    {
+      "id": "17",
+      "name": "Chloe Laurent",
+      "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
+      "location": "Marseille, France",
+      "followers": 1800,
+      "verified": false
+    },
+    {
+      "id": "18",
+      "name": "Mohammed Ali",
+      "avatar": "https://randomuser.me/api/portraits/men/30.jpg",
+      "location": "Dubai, UAE",
+      "followers": 4700,
+      "verified": true
+    },
+    {
+      "id": "19",
+      "name": "Sophia Taylor",
+      "avatar": "https://randomuser.me/api/portraits/women/35.jpg",
+      "location": "Sydney, Australia",
+      "followers": 1950,
+      "verified": false
+    },
+    {
+      "id": "20",
+      "name": "James Anderson",
+      "avatar": "https://randomuser.me/api/portraits/men/40.jpg",
+      "location": "Manchester, UK",
+      "followers": 2500,
+      "verified": true
+    }
+  ],
+  "stores": [
+    {
+      "id": "1",
+      "name": "Nike Official",
+      "logo": "https://logo.clearbit.com/nike.com",
+      "location": "Oregon, USA",
+      "rating": 4.8,
+      "followers": 120000
+    },
+    {
+      "id": "2",
+      "name": "Adidas Store",
+      "logo": "https://logo.clearbit.com/adidas.com",
+      "location": "Germany",
+      "rating": 4.7,
+      "followers": 95000
+    },
+    {
+      "id": "3",
+      "name": "Puma Sports",
+      "logo": "https://logo.clearbit.com/puma.com",
+      "location": "Germany",
+      "rating": 4.5,
+      "followers": 74000
+    },
+    {
+      "id": "4",
+      "name": "Reebok",
+      "logo": "https://logo.clearbit.com/reebok.com",
+      "location": "Boston, USA",
+      "rating": 4.4,
+      "followers": 60000
+    },
+    {
+      "id": "5",
+      "name": "New Balance",
+      "logo": "https://logo.clearbit.com/newbalance.com",
+      "location": "Boston, USA",
+      "rating": 4.6,
+      "followers": 50000
+    },
+    {
+      "id": "6",
+      "name": "Under Armour",
+      "logo": "https://logo.clearbit.com/underarmour.com",
+      "location": "Maryland, USA",
+      "rating": 4.3,
+      "followers": 43000
+    },
+    {
+      "id": "7",
+      "name": "Asics",
+      "logo": "https://logo.clearbit.com/asics.com",
+      "location": "Japan",
+      "rating": 4.2,
+      "followers": 38000
+    },
+    {
+      "id": "8",
+      "name": "Fila",
+      "logo": "https://logo.clearbit.com/fila.com",
+      "location": "Seoul, South Korea",
+      "rating": 4.1,
+      "followers": 29000
+    },
+    {
+      "id": "9",
+      "name": "Converse",
+      "logo": "https://logo.clearbit.com/converse.com",
+      "location": "Boston, USA",
+      "rating": 4.5,
+      "followers": 54000
+    },
+    {
+      "id": "10",
+      "name": "Vans",
+      "logo": "https://logo.clearbit.com/vans.com",
+      "location": "California, USA",
+      "rating": 4.6,
+      "followers": 61000
+    },
+    {
+      "id": "11",
+      "name": "Skechers",
+      "logo": "https://logo.clearbit.com/skechers.com",
+      "location": "California, USA",
+      "rating": 4.3,
+      "followers": 35000
+    },
+    {
+      "id": "12",
+      "name": "Columbia Sportswear",
+      "logo": "https://logo.clearbit.com/columbia.com",
+      "location": "Oregon, USA",
+      "rating": 4.2,
+      "followers": 22000
+    },
+    {
+      "id": "13",
+      "name": "Patagonia",
+      "logo": "https://logo.clearbit.com/patagonia.com",
+      "location": "California, USA",
+      "rating": 4.9,
+      "followers": 70000
+    },
+    {
+      "id": "14",
+      "name": "The North Face",
+      "logo": "https://logo.clearbit.com/thenorthface.com",
+      "location": "California, USA",
+      "rating": 4.8,
+      "followers": 65000
+    },
+    {
+      "id": "15",
+      "name": "Champion",
+      "logo": "https://logo.clearbit.com/champion.com",
+      "location": "North Carolina, USA",
+      "rating": 4.3,
+      "followers": 30000
+    },
+    {
+      "id": "16",
+      "name": "Lululemon",
+      "logo": "https://logo.clearbit.com/lululemon.com",
+      "location": "Vancouver, Canada",
+      "rating": 4.7,
+      "followers": 55000
+    },
+    {
+      "id": "17",
+      "name": "Hoka One One",
+      "logo": "https://logo.clearbit.com/hoka.com",
+      "location": "California, USA",
+      "rating": 4.4,
+      "followers": 27000
+    },
+    {
+      "id": "18",
+      "name": "Merrell",
+      "logo": "https://logo.clearbit.com/merrell.com",
+      "location": "Michigan, USA",
+      "rating": 4.2,
+      "followers": 24000
+    },
+    {
+      "id": "19",
+      "name": "Timberland",
+      "logo": "https://logo.clearbit.com/timberland.com",
+      "location": "New Hampshire, USA",
+      "rating": 4.6,
+      "followers": 40000
+    },
+    {
+      "id": "20",
+      "name": "Salomon",
+      "logo": "https://logo.clearbit.com/salomon.com",
+      "location": "France",
+      "rating": 4.5,
+      "followers": 36000
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Sleek Black Athletic Shoes",
+      "brand": "Nike",
+      "category": "Men’s Shoes",
+      "price": "€73.99",
+      "oldPrice": "€99.99",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Last Call",
+      "stock": 42,
+      "rating": 4.7
+    },
+    {
+      "id": "2",
+      "title": "White Running Shoes",
+      "brand": "Adidas",
+      "category": "Men’s Shoes",
+      "price": "€59.99",
+      "oldPrice": "€89.99",
+      "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Sale",
+      "stock": 18,
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "title": "Green Sneakers",
+      "brand": "Puma",
+      "category": "Running",
+      "price": "€49.99",
+      "oldPrice": "€69.99",
+      "image": "https://images.pexels.com/photos/845434/pexels-photo-845434.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "New",
+      "stock": 30,
+      "rating": 4.3
+    },
+    {
+      "id": "4",
+      "title": "Blue High Tops",
+      "brand": "Reebok",
+      "category": "High Tops",
+      "price": "€89.99",
+      "oldPrice": "€120.00",
+      "image": "https://images.pexels.com/photos/267202/pexels-photo-267202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Hot",
+      "stock": 10,
+      "rating": 4.6
+    },
+    {
+      "id": "5",
+      "title": "Classic Grey Sneakers",
+      "brand": "New Balance",
+      "category": "Casual",
+      "price": "€65.00",
+      "oldPrice": "€85.00",
+      "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Limited",
+      "stock": 25,
+      "rating": 4.4
+    },
+    {
+      "id": "6",
+      "title": "Red Training Shoes",
+      "brand": "Under Armour",
+      "category": "Training",
+      "price": "€75.00",
+      "oldPrice": "€95.00",
+      "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Hot",
+      "stock": 12,
+      "rating": 4.5
+    },
+    {
+      "id": "7",
+      "title": "Trail Running Shoes",
+      "brand": "Salomon",
+      "category": "Trail",
+      "price": "€110.00",
+      "oldPrice": "€140.00",
+      "image": "https://images.pexels.com/photos/3756042/pexels-photo-3756042.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "New",
+      "stock": 20,
+      "rating": 4.8
+    },
+    {
+      "id": "8",
+      "title": "Leather Boots",
+      "brand": "Timberland",
+      "category": "Boots",
+      "price": "€150.00",
+      "oldPrice": "€180.00",
+      "image": "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Trending",
+      "stock": 15,
+      "rating": 4.9
+    },
+    {
+      "id": "9",
+      "title": "Slip-On Casual Shoes",
+      "brand": "Vans",
+      "category": "Casual",
+      "price": "€55.00",
+      "oldPrice": "€75.00",
+      "image": "https://images.pexels.com/photos/1619658/pexels-photo-1619658.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Sale",
+      "stock": 28,
+      "rating": 4.2
+    },
+    {
+      "id": "10",
+      "title": "Canvas Sneakers",
+      "brand": "Converse",
+      "category": "Casual",
+      "price": "€60.00",
+      "oldPrice": "€85.00",
+      "image": "https://images.pexels.com/photos/1124465/pexels-photo-1124465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "New",
+      "stock": 22,
+      "rating": 4.4
+    },
+    {
+      "id": "11",
+      "title": "All-Weather Hiking Boots",
+      "brand": "Merrell",
+      "category": "Hiking",
+      "price": "€120.00",
+      "oldPrice": "€150.00",
+      "image": "https://images.pexels.com/photos/2361513/pexels-photo-2361513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Outdoor",
+      "stock": 17,
+      "rating": 4.7
+    },
+    {
+      "id": "12",
+      "title": "Performance Running Shoes",
+      "brand": "Asics",
+      "category": "Running",
+      "price": "€90.00",
+      "oldPrice": "€110.00",
+      "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Performance",
+      "stock": 27,
+      "rating": 4.6
+    },
+    {
+      "id": "13",
+      "title": "Skate Shoes",
+      "brand": "DC Shoes",
+      "category": "Skate",
+      "price": "€70.00",
+      "oldPrice": "€95.00",
+      "image": "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Skate",
+      "stock": 19,
+      "rating": 4.3
+    },
+    {
+      "id": "14",
+      "title": "Minimalist Running Shoes",
+      "brand": "Xero Shoes",
+      "category": "Running",
+      "price": "€85.00",
+      "oldPrice": "€110.00",
+      "image": "https://images.pexels.com/photos/1822800/pexels-photo-1822800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Minimal",
+      "stock": 14,
+      "rating": 4.5
+    },
+    {
+      "id": "15",
+      "title": "Luxury Leather Sneakers",
+      "brand": "Gucci",
+      "category": "Luxury",
+      "price": "€450.00",
+      "oldPrice": "€520.00",
+      "image": "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Luxury",
+      "stock": 5,
+      "rating": 4.9
+    },
+    {
+      "id": "16",
+      "title": "Designer High Tops",
+      "brand": "Balenciaga",
+      "category": "Luxury",
+      "price": "€650.00",
+      "oldPrice": "€720.00",
+      "image": "https://images.pexels.com/photos/6311394/pexels-photo-6311394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Designer",
+      "stock": 3,
+      "rating": 5.0
+    },
+    {
+      "id": "17",
+      "title": "Everyday Trainers",
+      "brand": "H&M",
+      "category": "Casual",
+      "price": "€40.00",
+      "oldPrice": "€55.00",
+      "image": "https://images.pexels.com/photos/1040426/pexels-photo-1040426.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Budget",
+      "stock": 40,
+      "rating": 4.0
+    },
+    {
+      "id": "18",
+      "title": "Eco-Friendly Sneakers",
+      "brand": "Allbirds",
+      "category": "Sustainable",
+      "price": "€95.00",
+      "oldPrice": "€115.00",
+      "image": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Eco",
+      "stock": 16,
+      "rating": 4.6
+    },
+    {
+      "id": "19",
+      "title": "Basketball Shoes",
+      "brand": "Jordan",
+      "category": "Sports",
+      "price": "€130.00",
+      "oldPrice": "€160.00",
+      "image": "https://images.pexels.com/photos/159838/basketball-shoes-pexels.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Sports",
+      "stock": 12,
+      "rating": 4.8
+    },
+    {
+      "id": "20",
+      "title": "Retro Running Shoes",
+      "brand": "Nike",
+      "category": "Running",
+      "price": "€100.00",
+      "oldPrice": "€130.00",
+      "image": "https://images.pexels.com/photos/267202/pexels-photo-267202.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=300",
+      "tag": "Retro",
+      "stock": 21,
+      "rating": 4.7
+    }
+  ]
+}
