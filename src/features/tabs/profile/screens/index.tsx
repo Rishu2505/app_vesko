@@ -172,6 +172,7 @@ export function Profile() {
                 <Marquee
                   speed={0.3}
                   spacing={_spacing}
+                  withGesture={false}
                   key={`marquee-${columnIndex}`}
                   reverse={columnIndex % 2 !== 0}>
                   <View style={{ flexDirection: "row", gap: _spacing }}>
