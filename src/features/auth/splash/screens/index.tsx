@@ -53,6 +53,7 @@ export function Splash() {
                 speed={0.3}
                 spacing={_spacing}
                 withGesture={false}
+                frameRate={120}
                 key={`marquee-${columnIndex}`}
                 reverse={columnIndex % 2 !== 0}>
                 <View style={{ flexDirection: "row", gap: _spacing }}>
